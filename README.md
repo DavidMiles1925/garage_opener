@@ -30,7 +30,7 @@ Resistors totalling 4KΩ. I used 4x [1KΩ resistors](https://www.amazon.com/EDGE
 
 **Interaction with GPIO pins**
 
-The GPIO pins were switched beteen "high" and "low" status to control opener/closer circuit.
+The GPIO pins were switched between "high" and "low" status to control opener/closer circuit.
 
 ![GPIO](./images/readme_GPIO-pins.jpg)
 
