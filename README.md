@@ -71,3 +71,4 @@ Windows PowerShell was used to connect to the Raspberry Pi via SSH protocol and 
 - Add magnets to garage track with circuitry to return a value of "open" or "closed"
 - Create website for executing code remotely
 - Develop mobile app to be able to control garage from Android phone
+- Solder all components when project is finished and fully tested
