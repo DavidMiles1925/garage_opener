@@ -2,7 +2,7 @@
 
 **Warning: This project is very customized and was developed purely for my own entertainment. This readme is not intended to be instructional, but rather to serve as a muse or starting point for someone wanting to complete similar projects.**
 
-## Explaination of Files:
+## Explanation of Files:
 
 **Garage_main.py:** This is the "full" version of the script. It contains code for the GUI and is meant to be run from the raspian environment.
 
@@ -18,7 +18,7 @@
 
 (Recommended): [GPIO extension board](https://www.amazon.com/s?k=Qunqi+Extension+Board+for+Raspberry+Pi+B+Model+B+Plus&camp=1789&creative=9325&linkCode=xm2&linkId=14854675dbfd014e5c4281a912f69a93&tag=thebittetru0f-20&ref=as_li_qf_sp_sr_il_tl) and [Jumper Wires](https://www.amazon.com/REXQualis-120pcs-Breadboard-Arduino-Raspberry/dp/B072L1XMJR/ref=sxin_15_pa_sp_search_thematic_sspa?content-id=amzn1.sym.4e7a2229-074e-44de-95c4-9fd858f46295%3Aamzn1.sym.4e7a2229-074e-44de-95c4-9fd858f46295&cv_ct_cx=raspberry+pi+jumper+wires&keywords=raspberry+pi+jumper+wires&pd_rd_i=B072L1XMJR&pd_rd_r=0baba6e9-655f-468b-b8bc-996dffe6c81b&pd_rd_w=rrecs&pd_rd_wg=IhpjU&pf_rd_p=4e7a2229-074e-44de-95c4-9fd858f46295&pf_rd_r=J4VM4F2S27DBSSKHFGHE&qid=1670992571&sr=1-1-a73d1c8c-2fd2-4f19-aa41-2df022bcb241-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyRFNZWE5LWUExU083JmVuY3J5cHRlZElkPUEwMTgzODI3VjZPRkdDTThBSzdKJmVuY3J5cHRlZEFkSWQ9QTA2NTYzMDQyNUtER0JJWVhRNldCJndpZGdldE5hbWU9c3Bfc2VhcmNoX3RoZW1hdGljJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==).
 
-Pygame for python installed found [here](https://www.pygame.org/news). Instructions on Pygame site for installation.
+Pygame for python found [here](https://www.pygame.org/news). Instructions on Pygame site for installation.
 
 Garage Door Remote. I used the [Chamberlain Klick1u](https://www.amazon.com/Clicker-KLIK1U-Universal-2-Button-Garage/dp/B0013Q0S4S/ref=asc_df_B0013Q0S4S?tag=bingshoppinga-20&linkCode=df0&hvadid=80126962060005&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583726540707843&psc=1).
 
